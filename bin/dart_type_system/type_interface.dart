@@ -1,0 +1,1 @@
+Map<String, dynamic> company = {'name': 'Dicoding', 'yearsFounded': 2015};
